@@ -28,8 +28,8 @@
  
  ## Code ที่สำคัญ
  
- - การจูน  Robot กับเส้น
- - การ Reset  MPU6050 ก่อนทำการปล่อย Robot
+ - การจูน  Robot กับเส้นให้ตรง
+ - การ Reset  MPU6050 ก่อนทำการRun Robot
  - Function สำหรับการเลี้ยว MPU60550
  - Technical  การวางกระป๋อง
 
